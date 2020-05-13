@@ -1,0 +1,16 @@
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\obj\Debug\LaboratorioDLL.vbprojAssemblyReference.cache
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\obj\Debug\LaboratorioDLL.Form1.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\obj\Debug\LaboratorioDLL.Resources.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\obj\Debug\LaboratorioDLL.vbproj.GenerateResource.cache
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\obj\Debug\LaboratorioDLL.vbproj.CoreCompileInputs.cache
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\bin\Debug\LaboratorioDLL.exe.config
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\bin\Debug\LaboratorioDLL.exe
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\bin\Debug\LaboratorioDLL.pdb
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\bin\Debug\LaboratorioDLL.xml
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\bin\Debug\ClassLibrary1.dll
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\bin\Debug\ClassLibrary1.pdb
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\bin\Debug\ClassLibrary1.xml
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\obj\Debug\LaboratorioDLL.vbproj.CopyComplete
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\obj\Debug\LaboratorioDLL.exe
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\obj\Debug\LaboratorioDLL.xml
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\LaboratorioDLL\obj\Debug\LaboratorioDLL.pdb
